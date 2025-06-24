@@ -82,6 +82,4 @@ README.md        // Project description
 - Dynamic console updates
 - Working with Windows console API
 
-## Credits
 
-This project was created as a first semester project by [Your Name] at [Your University].
