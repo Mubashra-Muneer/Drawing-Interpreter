@@ -1,0 +1,16 @@
+﻿  final.cpp
+  main.cpp
+E:\pf assignment.cpp\drawingtab\main.cpp(46,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(71,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(72,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(73,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(74,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(75,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(76,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(96,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(121,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(155,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(156,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\pf assignment.cpp\drawingtab\main.cpp(330,11): warning C4552: '-': result of expression not used
+  Generating Code...
+  drawingtab.vcxproj -> E:\pf assignment.cpp\drawingtab\x64\Debug\drawingtab.exe
